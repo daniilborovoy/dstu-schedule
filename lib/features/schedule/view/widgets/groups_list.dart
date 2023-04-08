@@ -1,6 +1,6 @@
 import 'package:dstu_schedule/features/schedule/models/group.dart';
-import 'package:dstu_schedule/features/schedule/view/widgets/group_card.dart';
 import 'package:dstu_schedule/features/schedule/view/pages/select_group_page.dart';
+import 'package:dstu_schedule/features/schedule/view/widgets/group_card.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
